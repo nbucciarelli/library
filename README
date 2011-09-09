@@ -1,0 +1,11 @@
+Ruby Group Meeting
+-----------------
+Learning Rails 3.1
+
+Controllers : Plural
+Models : Singular
+- = Ruby method call in a view
+= = Ruby display call in a view
+
+= f.submit
+= f.submit 'Create!'
